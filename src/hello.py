@@ -1,1 +1,0 @@
-print("Folders are ready!")
